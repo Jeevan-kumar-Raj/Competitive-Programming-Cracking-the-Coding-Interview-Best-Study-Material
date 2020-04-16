@@ -10,24 +10,24 @@ Software product companies Business model is different from that of software ser
 
 Product and Service companies vary in different parameters such as the work culture, communication, hierarchy, measuring individual performance, targets, responsibilities and interview process. Global software product companies like Microsoft, Google, Oracle, SAP, Salesforce have their development centers/research centers in India.
 
-Some of the Top Software Product Companies (SPCs) in india.
+<h1>Some of the Top Software Product Companies (SPCs) in india.</h1>
 
-Adobe
-Amazon
-Amdocs
-BMC Software
-Cisco Systems
-Dell EMC
-Google
-Hewlett-Packard (HP)
-IBM
-Intel
-Microsoft Corporation
-Oracle
-Paypal
-Pegasystems
-Red Hat Software
-Salesforce
-SAP SE
-Symantec Software company
-VMware, Inc
+#Adobe </br></br>
+#Amazon</br></br>
+#Amdocs</br></br>
+#BMC Software</br></br>
+#Cisco Systems</br></br>
+#Dell EMC</br></br>
+#Google</br></br>
+#Hewlett-Packard (HP)</br></br>
+#IBM</br></br>
+#Intel</br></br>
+#Microsoft Corporation</br></br>
+#Oracle</br></br>
+#Paypal</br></br>
+#Pegasystems</br></br>
+#Red Hat Software</br></br>
+#Salesforce</br></br>
+#SAP SE</br></br>
+#Symantec Software company</br></br>
+#VMware, Inc</br></br>
